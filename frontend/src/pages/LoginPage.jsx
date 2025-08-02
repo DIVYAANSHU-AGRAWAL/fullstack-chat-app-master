@@ -119,7 +119,7 @@ const LoginPage = () => {
       {/* Right Side - Image/Pattern */}
       <AuthImagePattern
         title={"Welcome back!"}
-        subtitle={"Your chats missed you, let&apos;s reconnect."}
+        subtitle={"Your chats missed you, let's reconnect."}
       />
     </div>
   );
