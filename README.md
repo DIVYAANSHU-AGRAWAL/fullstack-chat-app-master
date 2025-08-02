@@ -19,6 +19,16 @@ A full-featured real-time chat application built with the **MERN stack**, **Sock
 
 ---
 
+## Project Screenshots
+
+![Home](screenshots/ProjectSS1.png)
+
+![Chat View](screenshots/ProjectSS2.png)
+
+![Profile](screenshots/ProjectSS3.png)
+
+![Mobile View](screenshots/ProjectSS4.png)
+
 ###  Tech Stack
 
 - **Frontend**: React + TailwindCSS + DaisyUI + Zustand
