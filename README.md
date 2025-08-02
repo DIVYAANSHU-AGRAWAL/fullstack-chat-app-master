@@ -97,19 +97,6 @@ npm run dev
 
 
 ---
-
-
-
-### 📸 Demo Screenshots
-
-
-
----
-
-
-
-
-
 ### 🙋‍♂️ About Me
 
 Hi, I'm Divyaanshu Agrawal — a passionate full-stack web developer currently focused on building real-time, scalable apps using modern tech stacks.  
@@ -117,7 +104,4 @@ Feel free to reach out or check out more of my work!
 
 ---
 
-### 📬 Contact
 
-- LinkedIn: [Your LinkedIn]
-- Email: [Your Email]
