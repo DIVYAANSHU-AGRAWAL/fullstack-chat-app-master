@@ -1,4 +1,4 @@
-# 💬 Full Stack Realtime Chat App
+# BaatCheet: Full Stack Realtime Chat App
 
 A full-featured real-time chat application built with the **MERN stack**, **Socket.io**, and **Zustand** for global state. This project includes user authentication, image uploads with Cloudinary, live online status, and more.
 
