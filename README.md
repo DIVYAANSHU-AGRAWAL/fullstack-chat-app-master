@@ -21,7 +21,7 @@ A full-featured real-time chat application built with the **MERN stack**, **Sock
 
 ###  Tech Stack
 
-- **Frontend**: React + TailwindCSS + Zustand
+- **Frontend**: React + TailwindCSS + DaisyUI + Zustand
 - **Backend**: Node.js + Express + MongoDB
 - **Realtime**: Socket.io
 - **Image Uploads**: Cloudinary
